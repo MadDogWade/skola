@@ -1,0 +1,2 @@
+# skola
+Python projekt
