@@ -19,10 +19,3 @@ Lägger till detta nu efter inspelningen, jag nämnde att RAG är bäst internt 
 Jag gick faktiskt in igår på ASUS hemsida och skulle kolla upp information kring ett äldre moderkort och där körde de faktiskt på RAG vilket faktiskt var väldigt bra för att istället för att jag ska bläddra bland massa data och kolla dokument så visade den direkt. Så användningsområde finns brett för RAG, det handlar bara mycket om känsliga uppgifter. Man ska också vara medveten om att RAG kan faila precis som det gjorde på min inspelning men på ett av frågorna, men på det stora hela är det nog en väldigt stor vinst.
 
 
-
-Terese 4 frågor
-
-1. Kan inte säga att något varit svårt, utan det har varit en väldigt rolig kurs!
-2. Här får man lov och säga att man hoppas på ett VG :-). Jag hoppas jag uppfyllt kursmålen och kunnat visa att jag vet hur jag använda AI i mitt dagliga arbete.
-3. Här får jag säga att RAG var faktiskt roligast och även inspelningen, saken är att jag har gjort väldigt mycket inom AI men RAG är den del som jag väldigt lätt touchat på för ett år sen så det var kul att faktiskt göra allt ordentligt nu.
-4. Stort tack för 2 grymt roliga kurser!
