@@ -1,0 +1,1976 @@
+[
+  {
+    "bild": "bilder/bild1.jpg",
+    "labels": [
+      {
+        "namn": "Countryside",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Hill",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 96.9
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild10.jpg",
+    "labels": [
+      {
+        "namn": "Land",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sea",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Water",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Summer",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Beach",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Sky",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.7
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild11.jpg",
+    "labels": [
+      {
+        "namn": "Ice",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Winter",
+        "confidence": 99.3
+      },
+      {
+        "namn": "Snow",
+        "confidence": 94.9
+      },
+      {
+        "namn": "Weather",
+        "confidence": 91.7
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild12.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Road",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 99.7
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild13.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Grass",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Plant",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 98.7
+      },
+      {
+        "namn": "Azure Sky",
+        "confidence": 97.5
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild14.jpg",
+    "labels": [
+      {
+        "namn": "Horizon",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Fun",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Vacation",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 97.3
+      },
+      {
+        "namn": "Beach",
+        "confidence": 94.4
+      },
+      {
+        "namn": "Sea",
+        "confidence": 94.4
+      },
+      {
+        "namn": "Person",
+        "confidence": 91.6
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild15.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Slope",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Tree",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Wilderness",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Mountain Range",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Vegetation",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Peak",
+        "confidence": 99.0
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild16.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Lake",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.2
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild17.jpg",
+    "labels": [
+      {
+        "namn": "Road",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Freeway",
+        "confidence": 98.6
+      },
+      {
+        "namn": "Highway",
+        "confidence": 98.6
+      },
+      {
+        "namn": "Mountain",
+        "confidence": 96.6
+      },
+      {
+        "namn": "Mountain Range",
+        "confidence": 96.6
+      },
+      {
+        "namn": "Peak",
+        "confidence": 95.7
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild18.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Yard",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Sky",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Ground",
+        "confidence": 96.0
+      },
+      {
+        "namn": "Picket Fence",
+        "confidence": 90.0
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild19.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Panoramic",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Plant",
+        "confidence": 94.9
+      },
+      {
+        "namn": "Vegetation",
+        "confidence": 94.9
+      },
+      {
+        "namn": "Cloud",
+        "confidence": 94.7
+      },
+      {
+        "namn": "Sky",
+        "confidence": 94.7
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild2.jpg",
+    "labels": [
+      {
+        "namn": "Water",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Waterfront",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Port",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Pier",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Lake",
+        "confidence": 94.3
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild20.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Field",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Countryside",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Rural",
+        "confidence": 97.4
+      },
+      {
+        "namn": "Person",
+        "confidence": 95.6
+      },
+      {
+        "namn": "Farm",
+        "confidence": 95.5
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild21.jpg",
+    "labels": [
+      {
+        "namn": "Flying",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Beach",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sea",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Photography",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Portrait",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Airplane",
+        "confidence": 98.9
+      },
+      {
+        "namn": "Pants",
+        "confidence": 98.7
+      },
+      {
+        "namn": "Soil",
+        "confidence": 98.7
+      },
+      {
+        "namn": "Sky",
+        "confidence": 98.5
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild22.jpg",
+    "labels": [
+      {
+        "namn": "Outdoors",
+        "confidence": 99.0
+      },
+      {
+        "namn": "Mountain Range",
+        "confidence": 98.9
+      },
+      {
+        "namn": "Nature",
+        "confidence": 98.9
+      },
+      {
+        "namn": "Peak",
+        "confidence": 98.9
+      },
+      {
+        "namn": "Architecture",
+        "confidence": 98.5
+      },
+      {
+        "namn": "Building",
+        "confidence": 98.5
+      },
+      {
+        "namn": "Cityscape",
+        "confidence": 98.5
+      },
+      {
+        "namn": "Urban",
+        "confidence": 98.5
+      },
+      {
+        "namn": "City",
+        "confidence": 95.1
+      },
+      {
+        "namn": "Neighborhood",
+        "confidence": 93.3
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild23.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Desert",
+        "confidence": 100.0
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild24.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Mountain",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Mountain Range",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Peak",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Weather",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 98.6
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild25.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Beach",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Coast",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Sea",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Shoreline",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 98.6
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild26.jpg",
+    "labels": [
+      {
+        "namn": "Tree",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Mountain",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Mountain Range",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Peak",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Fir",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Wilderness",
+        "confidence": 97.4
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild27.jpg",
+    "labels": [
+      {
+        "namn": "Countryside",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Hill",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Field",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Grassland",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.5
+      },
+      {
+        "namn": "Grass",
+        "confidence": 97.9
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 96.1
+      },
+      {
+        "namn": "Slope",
+        "confidence": 90.9
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild28.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Beach",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Coast",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Sea",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Shoreline",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 98.6
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild29.jpg",
+    "labels": [
+      {
+        "namn": "Grass",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Park",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Path",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Walking",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.3
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 97.0
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild3.jpg",
+    "labels": [
+      {
+        "namn": "Mountain",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Mountain Range",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Peak",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Slope",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Wilderness",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Valley",
+        "confidence": 95.4
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild30.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Sky",
+        "confidence": 98.0
+      },
+      {
+        "namn": "Lake",
+        "confidence": 97.4
+      },
+      {
+        "namn": "Puddle",
+        "confidence": 90.4
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild31.jpg",
+    "labels": [
+      {
+        "namn": "Ground",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Desert",
+        "confidence": 99.2
+      },
+      {
+        "namn": "Nature",
+        "confidence": 99.2
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 99.2
+      },
+      {
+        "namn": "Sky",
+        "confidence": 97.5
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 94.7
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 90.9
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild32.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Hiking",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Wilderness",
+        "confidence": 99.3
+      },
+      {
+        "namn": "Grass",
+        "confidence": 98.7
+      },
+      {
+        "namn": "Grassland",
+        "confidence": 98.3
+      },
+      {
+        "namn": "Peak",
+        "confidence": 98.1
+      },
+      {
+        "namn": "Tree",
+        "confidence": 97.1
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild33.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Water",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Stream",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Creek",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Land",
+        "confidence": 93.3
+      },
+      {
+        "namn": "Plant",
+        "confidence": 93.3
+      },
+      {
+        "namn": "Rainforest",
+        "confidence": 93.3
+      },
+      {
+        "namn": "Tree",
+        "confidence": 93.3
+      },
+      {
+        "namn": "Vegetation",
+        "confidence": 93.3
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild34.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sea",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Water",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Shoreline",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Coast",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Beach",
+        "confidence": 99.4
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 96.7
+      },
+      {
+        "namn": "Sky",
+        "confidence": 96.6
+      },
+      {
+        "namn": "Bird",
+        "confidence": 94.0
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild35.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Sea",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.5
+      },
+      {
+        "namn": "Shoreline",
+        "confidence": 95.4
+      },
+      {
+        "namn": "Beach",
+        "confidence": 95.1
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild36.jpg",
+    "labels": [
+      {
+        "namn": "Lake",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Water",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.3
+      },
+      {
+        "namn": "Mountain",
+        "confidence": 97.8
+      },
+      {
+        "namn": "Mountain Range",
+        "confidence": 97.8
+      },
+      {
+        "namn": "Peak",
+        "confidence": 97.8
+      },
+      {
+        "namn": "Cityscape",
+        "confidence": 96.1
+      },
+      {
+        "namn": "Urban",
+        "confidence": 96.1
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild37.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Wilderness",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Vegetation",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Path",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Mountain",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Mountain Range",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Road",
+        "confidence": 99.3
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild38.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Wilderness",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Grass",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Plant",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Vegetation",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Mountain Range",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Peak",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Slope",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 98.0
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild39.jpg",
+    "labels": [
+      {
+        "namn": "Ground",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Nature",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Sky",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Grass",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Plant",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.3
+      },
+      {
+        "namn": "Land",
+        "confidence": 98.4
+      },
+      {
+        "namn": "Person",
+        "confidence": 94.1
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild4.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Water",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Rock",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Plant",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Vegetation",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Rainforest",
+        "confidence": 98.8
+      },
+      {
+        "namn": "Tree",
+        "confidence": 98.8
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 98.7
+      },
+      {
+        "namn": "Waterfall",
+        "confidence": 95.0
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild40.jpg",
+    "labels": [
+      {
+        "namn": "Plant",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Vegetation",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Grass",
+        "confidence": 100.0
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild41.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Sea",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Land",
+        "confidence": 98.3
+      },
+      {
+        "namn": "Beach",
+        "confidence": 97.5
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 96.8
+      },
+      {
+        "namn": "Cumulus",
+        "confidence": 96.0
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild42.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Azure Sky",
+        "confidence": 94.9
+      },
+      {
+        "namn": "Sea",
+        "confidence": 94.2
+      },
+      {
+        "namn": "Water",
+        "confidence": 94.2
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild43.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Stream",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Water",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Land",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Plant",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Rainforest",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Vegetation",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Creek",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 97.3
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild44.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.4
+      },
+      {
+        "namn": "Weather",
+        "confidence": 97.8
+      },
+      {
+        "namn": "Vegetation",
+        "confidence": 96.1
+      },
+      {
+        "namn": "Waterfall",
+        "confidence": 93.6
+      },
+      {
+        "namn": "Person",
+        "confidence": 92.0
+      },
+      {
+        "namn": "Cliff",
+        "confidence": 91.4
+      },
+      {
+        "namn": "Sky",
+        "confidence": 90.0
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild45.jpg",
+    "labels": [
+      {
+        "namn": "Plant",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Tree",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Conifer",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Vegetation",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Land",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Nature",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Woodland",
+        "confidence": 99.1
+      },
+      {
+        "namn": "Larch",
+        "confidence": 98.8
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 95.4
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild46.jpg",
+    "labels": [
+      {
+        "namn": "Mountain",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 97.5
+      },
+      {
+        "namn": "Water",
+        "confidence": 95.8
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild47.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Sky",
+        "confidence": 98.0
+      },
+      {
+        "namn": "Lake",
+        "confidence": 97.4
+      },
+      {
+        "namn": "Puddle",
+        "confidence": 90.4
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild48.jpg",
+    "labels": [
+      {
+        "namn": "Pebble",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Sky",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Rock",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Beach",
+        "confidence": 98.9
+      },
+      {
+        "namn": "Sea",
+        "confidence": 98.9
+      },
+      {
+        "namn": "Water",
+        "confidence": 98.9
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 98.6
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 98.1
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild49.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Land",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.5
+      },
+      {
+        "namn": "Sunrise",
+        "confidence": 98.9
+      },
+      {
+        "namn": "Sunset",
+        "confidence": 98.4
+      },
+      {
+        "namn": "Sea",
+        "confidence": 96.6
+      },
+      {
+        "namn": "Reed",
+        "confidence": 96.5
+      },
+      {
+        "namn": "Sunlight",
+        "confidence": 93.3
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild5.jpg",
+    "labels": [
+      {
+        "namn": "Boat",
+        "confidence": 99.4
+      },
+      {
+        "namn": "Transportation",
+        "confidence": 99.4
+      },
+      {
+        "namn": "Vehicle",
+        "confidence": 99.4
+      },
+      {
+        "namn": "Person",
+        "confidence": 94.7
+      },
+      {
+        "namn": "Architecture",
+        "confidence": 91.6
+      },
+      {
+        "namn": "Building",
+        "confidence": 91.6
+      },
+      {
+        "namn": "Cityscape",
+        "confidence": 91.6
+      },
+      {
+        "namn": "Urban",
+        "confidence": 91.6
+      },
+      {
+        "namn": "Gondola",
+        "confidence": 90.6
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild50.jpg",
+    "labels": [
+      {
+        "namn": "Field",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Grassland",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Countryside",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Pasture",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.3
+      },
+      {
+        "namn": "Tree",
+        "confidence": 99.3
+      },
+      {
+        "namn": "Grass",
+        "confidence": 99.3
+      },
+      {
+        "namn": "Meadow",
+        "confidence": 98.1
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild6.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.6
+      },
+      {
+        "namn": "Sky",
+        "confidence": 98.0
+      },
+      {
+        "namn": "Lake",
+        "confidence": 97.4
+      },
+      {
+        "namn": "Puddle",
+        "confidence": 90.4
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild7.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Rock",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sunrise",
+        "confidence": 99.9
+      },
+      {
+        "namn": "Horizon",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Sea",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Waterfront",
+        "confidence": 99.8
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 99.6
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild8.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sky",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Sea",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Water",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Beach",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Rock",
+        "confidence": 99.3
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.0
+      },
+      {
+        "namn": "Sunrise",
+        "confidence": 95.1
+      }
+    ]
+  },
+  {
+    "bild": "bilder/bild9.jpg",
+    "labels": [
+      {
+        "namn": "Nature",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Outdoors",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Scenery",
+        "confidence": 100.0
+      },
+      {
+        "namn": "Landscape",
+        "confidence": 99.7
+      },
+      {
+        "namn": "Countryside",
+        "confidence": 93.9
+      }
+    ]
+  }
+]
